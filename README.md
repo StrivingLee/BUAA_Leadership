@@ -1,2 +1,4 @@
 # BUAA_Leadership
-Course recourses and report for BUAA elective course leadership.
+Course recourses for BUAA elective course leadership.
+
+Report NOT SHOWN due to privacy.
